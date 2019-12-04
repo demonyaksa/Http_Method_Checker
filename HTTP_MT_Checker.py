@@ -1,7 +1,6 @@
 #coding=utf-8
 import requests
 import sys
-import re
 
 print("Example: https://www.example.com")
 print()
